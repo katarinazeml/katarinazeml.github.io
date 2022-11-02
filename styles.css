@@ -1,0 +1,39 @@
+p{
+color: deeppink;
+}
+#one{
+	background-color:yellow;
+}
+.link {color: blue;
+margin-top: 30px;
+}
+[title] {background-color: lightpink; 
+}
+body {
+background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fpink-wallpaper&psig=AOvVaw2CLVJvOU8tggOuR668J_HM&ust=1667145066243000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDVg7_lhfsCFQAAAAAdAAAAABAE);
+}
+th{border-style: inset;
+   border-width: 5px;
+   border-color: red
+}
+table{margin-top: 50px;
+	margin-bottom: 50 px;
+	margin-right: 150 px;
+	margin-left: 200 px;
+}
+iframe{margin-top: 25px;
+	margin-bottom: 50 px;
+	margin-right: 150 px;
+	margin-left: 200 px;
+}
+table{
+	border-style: solid;
+	border-color: red;
+	padding: 10px 10px 10px 10px
+}
+h1{font-family: "Georgia", "Garamond", fantasy;
+text-align:center;
+}
+h2{font-family: "Georgia", "Garamond", fantasy;
+text-align:center;
+}
